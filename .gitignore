@@ -1,0 +1,9 @@
+
+#For Java
+*.class
+
+#For C, C++
+*.exe
+
+#For Python
+tempCodeRunnerFile.*
